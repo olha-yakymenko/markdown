@@ -9,8 +9,10 @@ Element [^1].
 
 
 
-##nagłowek {#id}
+## nagłowek {#id}
+
 Tekst
+
 [link do nagłowek](#id)
 
 #Plany
