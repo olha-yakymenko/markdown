@@ -2,10 +2,6 @@
 |:--------:|:--------:|:---------:|
 |Element 1 | Element 2| Element 3 |
 
-```python
-def funkcja():
-  print("Podkreślamy")
-funkcja()
 
 
 Element [^1]:
@@ -20,3 +16,11 @@ Element [^1]:
 
 😴 :sleeping:
 😉 :wink:
+
+
+```python
+def funkcja():
+  print("Podkreślamy")
+funkcja()
+
+
