@@ -4,23 +4,27 @@
 
 
 
-Element [^1]:
-#pierwszy
-##drugi
-[Do naglowka](#pierwszy)
- ## drugi{#drugi}
+Element [^1].
+[^1]: Tereść
+
+
+
+##nagłowek {#id}
+Tekst
+[link do nagłowek](#id)
 
 #Plany
 - [x] wstać
-- [] coś zjeść
+- [ ] coś zjeść
 
-😴 :sleeping:
-😉 :wink:
+ :sleeping:
+ :wink:
 
 
 ```python
 def funkcja():
   print("Podkreślamy")
 funkcja()
+```
 
 
