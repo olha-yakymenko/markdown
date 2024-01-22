@@ -5,7 +5,7 @@
 
 
 Element [^1].
-[^1]: Tereść
+[^1]: Treść
 
 
 
@@ -13,7 +13,7 @@ Element [^1].
 
 Tekst
 
-[link do nagłowek](#id)
+
 
 #Plany
 - [x] wstać
@@ -21,12 +21,12 @@ Tekst
 
  :sleeping:
  :wink:
+[link do nagłowek](#id)
 
-
-```python
+==```python
 def funkcja():
   print("Podkreślamy")
 funkcja()
-```
+```==
 
 
