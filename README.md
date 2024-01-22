@@ -23,10 +23,10 @@ Tekst
  :wink:
 [link do nagłowek](#id)
 
-==```python
+```python
 def funkcja():
   print("Podkreślamy")
 funkcja()
-```==
+```
 
 
