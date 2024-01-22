@@ -9,11 +9,11 @@ Element [^1].
 
 
 
-# Nagłówek {#id}
+# Nagłówek {#identyikator}
 
 Tekst
 
-[Link do Nagłówka](#id)
+[Link do Nagłówka](#identyfikator)
 
 
 
