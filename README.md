@@ -9,9 +9,11 @@ Element [^1].
 
 
 
-# nagłowek {#id}
+# Nagłówek {#id}
 
 Tekst
+
+[Link do Nagłówka](#id)
 
 
 
@@ -21,7 +23,7 @@ Tekst
 
  :sleeping:
  :wink:
-[link do nagłowka](#id)
+
 
 ```python
 def funkcja():
