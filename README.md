@@ -9,11 +9,11 @@ Element [^1].
 
 
 
-## Nagłówek z Identyfikatorem {# moj-id}
+## Nagłówek z Identyfikatorem {#moj-id}
 
 Tekst dla nagłówka z identyfikatorem.
 
-[Zobacz Nagłówek](# moj-id)
+[Zobacz Nagłówek](#moj-id)
 
 
 
