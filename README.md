@@ -1,7 +1,8 @@
 |Nagłowek 1|Nagłowek 2| Nagłowek 3|
 |:--------:|:--------:|:---------:|
 |Element 1 | Element 2| Element 3 |
-
+|El        | El2      | El3       |
+|EEEE      | EEEEE    | EEEEE     |
 
 
 Element [^1].
@@ -9,11 +10,11 @@ Element [^1].
 
 
 
-## Nagłówek z Identyfikatorem {#moj-id}
+## Nagłówek{#id}
 
 Tekst dla nagłówka z identyfikatorem.
 
-[Zobacz Nagłówek](#moj-id)
+[Zobacz Nagłówek](#id)
 
 
 
